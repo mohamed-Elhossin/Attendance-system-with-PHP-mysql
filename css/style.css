@@ -1,0 +1,31 @@
+table{
+  font-weight: bold;
+  font-size: 20px;
+
+}
+table , td , tr {
+  color: wheat;
+
+}
+
+
+label{
+  margin: 10px 0px;
+  color: wheat;
+  font-size: 20px;
+  
+}
+.inputs{
+  background:linear-gradient(rgb(85, 82, 82) , rgba(71, 4, 4,.3));
+  box-shadow: 10px 10px 10px;
+padding: 10px 20px;
+
+}
+body{
+background: linear-gradient(gray , rgb(131, 115, 115));
+
+
+}
+h6{
+  display: inline;
+}
